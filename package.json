@@ -1,6 +1,6 @@
 {
   "name": "holyghost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resurrect processes if they die (fork of deoxxa's jesus)",
   "main": "index.js",
   "bin": {
