@@ -7,6 +7,7 @@
     "jesus": "./bin/holyghost.js",
     "holyghost": "./bin/holyghost.js"
   },
+  "preferGlobal": true,
   "dependencies": {
     "burro": "~0.4.4",
     "pillion": "~0.0.5",
