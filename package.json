@@ -1,10 +1,11 @@
 {
-  "name": "jesus",
-  "version": "0.0.12",
-  "description": "Resurrect processes if they die",
+  "name": "holyghost",
+  "version": "1.0.0",
+  "description": "Resurrect processes if they die (fork of deoxxa's jesus)",
   "main": "index.js",
   "bin": {
-    "jesus": "./bin/jesus"
+    "jesus": "./bin/holyghost.js",
+    "holyghost": "./bin/holyghost.js",
   },
   "dependencies": {
     "burro": "~0.4.4",
@@ -15,7 +16,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/deoxxa/jesus.git"
+    "url": "git://github.com/whiskers75/holyghost.git"
   },
   "keywords": [
     "process",
@@ -24,7 +25,6 @@
     "run",
     "monitor"
   ],
-  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
   "license": "BSD",
   "readmeFilename": "README.md"
 }
