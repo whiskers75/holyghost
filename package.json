@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": {
     "jesus": "./bin/holyghost.js",
-    "holyghost": "./bin/holyghost.js",
+    "holyghost": "./bin/holyghost.js"
   },
   "dependencies": {
     "burro": "~0.4.4",
