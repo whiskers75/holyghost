@@ -17,6 +17,8 @@ Installation
 
 Available via [npm](http://npmjs.org/package/holyghost):
 
+![npm](http://nodei.co/npm/holyghost.png?downloads=true&stars=true)
+
 > $ npm install holyghost -g
 
 Or via git:
